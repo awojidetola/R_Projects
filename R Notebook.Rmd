@@ -47,3 +47,9 @@ if (new > 20){
   print ("This is just great!")
 }
 ```
+
+#### While Loop
+
+```{r}
+
+```
