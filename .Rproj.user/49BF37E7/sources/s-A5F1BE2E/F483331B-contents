@@ -68,3 +68,17 @@ while (speed >= 10){
   } 
 }
 ```
+
+```{r}
+#For Loop
+for (i in cars$speed){
+  if (i < 10)
+    next
+  print (i*2)
+
+} 
+```
+
+```{r}
+
+```

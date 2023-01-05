@@ -51,5 +51,34 @@ if (new > 20){
 #### While Loop
 
 ```{r}
+i <- 1
+while (i < 5){
+  print (i)
+  i <-  i+1
+}
+```
+
+```{r}
+speed <- 100
+while (speed >= 10){
+  print (speed)
+  speed <- speed - 10
+  if (speed == 50){
+    break
+  } 
+}
+```
+
+```{r}
+#For Loop
+for (i in cars$speed){
+  if (i < 10)
+    next
+  print (i*2)
+
+} 
+```
+
+```{r}
 
 ```
