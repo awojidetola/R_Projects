@@ -33,6 +33,17 @@ list1[2]
 list1[3]
 ```
 
-```{r}
+## Conditional Statements in R
 
+#### If Statements
+
+```{r}
+new <- cars$speed[5]
+if (new > 20){
+  print ("We have a high car speed")
+} else if(new > 5) {
+  print ("Oh well!")
+} else{
+  print ("This is just great!")
+}
 ```

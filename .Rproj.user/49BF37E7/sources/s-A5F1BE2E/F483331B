@@ -3,7 +3,7 @@
     "path": "C:/Users/USER/Desktop/New folder/R Notebook.Rmd",
     "project_path": "R Notebook.Rmd",
     "type": "r_markdown",
-    "hash": "2262259354",
+    "hash": "2472142804",
     "contents": "",
     "dirty": false,
     "created": 1672921712985.0,
@@ -14,19 +14,19 @@
         "chunk_output_type": "inline",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "38,0",
+        "cursorPosition": "40,19",
         "scrollLine": "0",
         "rmdVisualMode": "true",
         "rmdVisualWrapConfigured": "true",
         "docOutlineVisible": "1",
-        "rmdVisualModeLocation": "584:959"
+        "rmdVisualModeLocation": "786:1270"
     },
     "folds": "",
-    "lastKnownWriteTime": 1672923798,
+    "lastKnownWriteTime": 1672924349,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1672923799002,
+    "last_content_update": 1672924349888,
     "read_only": false,
     "read_only_alternatives": []
 }
