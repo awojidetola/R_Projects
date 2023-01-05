@@ -1,0 +1,32 @@
+{
+    "id": "F483331B",
+    "path": "C:/Users/USER/Desktop/New folder/R Notebook.Rmd",
+    "project_path": "R Notebook.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1672921712985.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "chunk_output_type": "inline",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "2,35",
+        "scrollLine": "0",
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "rmdVisualModeLocation": "314:345"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1672922301,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1672922482618,
+    "read_only": false,
+    "read_only_alternatives": []
+}

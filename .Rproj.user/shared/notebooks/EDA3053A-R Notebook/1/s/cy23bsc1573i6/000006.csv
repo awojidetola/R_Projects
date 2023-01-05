@@ -1,0 +1,2 @@
+"0","mat1 <- matrix(5:13, nrow=3, byrow=TRUE)"
+"0","names(mat1) <- c(""First"",""Second"",""Third"")"

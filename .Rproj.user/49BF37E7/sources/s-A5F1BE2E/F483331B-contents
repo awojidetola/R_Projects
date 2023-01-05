@@ -1,0 +1,22 @@
+# Introduction to R (Practice)
+
+## Vectors, Matrices and Dataframes in R
+
+```{r}
+
+age <- c(32, 26, 98, 24)
+age[1]
+age[c(2,3)]
+names(age) <- c("Joy", "Dotun","Eliza","Soweto")
+age[c("Soweto","Dotun")]
+mean(age)
+sd(age)
+sum(age)
+```
+
+```{r}
+mat1 <- matrix(5:13, nrow=3, byrow=TRUE)
+colnames(mat1) <- c("First", "Second","Third")
+rownames(mat1) <- c("1", "2","3")
+mat1
+```
